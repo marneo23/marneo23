@@ -1,16 +1,17 @@
-### Hi there 👋
+       
+<h2 align="center">
+  Hey! Welcome :)
+</h2>
 
-<!--
-**marneo23/marneo23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 Currently working full time as a Manual QA Analyst
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🔧 I'm enhancing my Selenium skills, aside from integrating various frameworks like TestNG and JUnit
+
+🌿 I've worked on personal projects with HTML, CSS (and ScSS), JS and Java.
+
+🌱 I find learning to be really fullfilling.
+
+⚡ Aside from technology, I'm into 📚Reading 🎸Making music and 🏀Playing Basketball.
