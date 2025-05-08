@@ -7,6 +7,6 @@ Working full time as a Java Developer unless I vanish from earth's surface for a
 
 ---
 
-### 🛠️ Currently exploring:
-- A pet project with Vue to reimagine music chord pages on a more practical format
+### 🛠️ Currently working on:
+- A side project with Vue to reimagine music chord pages on a more practical format
 - 🌱 Always learning (sometimes even useful things)
