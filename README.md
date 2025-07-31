@@ -8,5 +8,5 @@ Always learning, sometimes even useful things.
 - A side project with Vue to reimagine music chord pages on a more practical format
 
 ### Interested in:
-- Vue
+- Web3
 - Langchain & AI
