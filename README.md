@@ -9,7 +9,7 @@
 <h1 align="center">Hey, I'm Martin 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&width=435&lines=Backend+Developer;From+Buenos+Aires+%F0%9F%87%A6%F0%9F%87%B7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&width=435&lines=Backend+Developer%3BFrom+Buenos+Aires" alt="Typing SVG" />
 </p>
 
 <p align="center">
