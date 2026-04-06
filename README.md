@@ -7,7 +7,7 @@
 ---
 
 <h1 align="center">Hey, I'm Martin 👋</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Backend+Developer;From+Buenos+Aires)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Backend+Developer%3BFrom+Buenos+Aires)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=marneo23&label=Profile%20Views&color=0e75b6&style=flat-square" alt="marneo23" />
