@@ -27,7 +27,7 @@
 - 🗣️ **Languages:** Spanish, English (C1)
 - 💻 **Currently working with:** Node.js / TypeScript
 - 🎓 **Studying:** Data Science & AI — Universidad de la Empresa
-- ⭐ **Background:** Started in QA — which means I break things before they break in prod
+- ⭐ **Background:** Started as QA Automation — which means I break things before they break in prod
 - 🎵 **Fun fact:** Right now I'm probably listening to the greatest [music anthology of all time](https://open.spotify.com/playlist/00i82lDzMDdiHWNjrIGAyw?si=d0b1982c40864fe0)
 
 ---
@@ -37,7 +37,7 @@
 ## 💡 About
 
 - 🔧 I build backend APIs that are clean, secure and explainable
-- 🧠 Currently deepening my Node.js / TypeScript fundamentals
+- 🧠 Currently deepening my knowledge Node.js / TypeScript
 - 🌐 Interested in **Web3**, **AI/LLMs**, and **distributed systems**
 - 🧪 QA background means I think about edge cases before they become incidents
 
@@ -51,8 +51,6 @@
 - [x] Build real test suites under production pressure (JS + Cucumber)
 - [x] Ship a Web3 project (NEXUS — Arkiv Web3 Database Builders Challenge)
 - [x] Build a real-time app with WebSockets (CineMatch)
-- [x] Build a REST API from scratch — no AI assistance (Taskboard)
-- [ ] Land a backend developer role
 - [ ] Build something with AI / LLMs
 
 ---
@@ -96,10 +94,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marneo23&show_icons=true&theme=dark&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marneo23&layout=compact&theme=dark"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marneo23&theme=dark" />
