@@ -51,7 +51,7 @@
 - [x] Build real test suites under production pressure (JS + Cucumber)
 - [x] Ship a Web3 project (NEXUS — Arkiv Web3 Database Builders Challenge)
 - [x] Build a real-time app with WebSockets (CineMatch)
-- [ ] Build something with AI / LLMs
+- [ ] Build something with Langchain
 
 ---
 
