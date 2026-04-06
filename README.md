@@ -7,7 +7,10 @@
 ---
 
 <h1 align="center">Hey, I'm Martin 👋</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Backend+Developer%3BFrom+Buenos+Aires)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&width=435&lines=Backend+Developer;From+Buenos+Aires+%F0%9F%87%A6%F0%9F%87%B7" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=marneo23&label=Profile%20Views&color=0e75b6&style=flat-square" alt="marneo23" />
@@ -48,6 +51,8 @@
 - [x] Build real test suites under production pressure (JS + Cucumber)
 - [x] Ship a Web3 project (NEXUS — Arkiv Web3 Database Builders Challenge)
 - [x] Build a real-time app with WebSockets (CineMatch)
+- [x] Build a REST API from scratch — no AI assistance (Taskboard)
+- [ ] Land a backend developer role
 - [ ] Build something with AI / LLMs
 
 ---
@@ -90,6 +95,11 @@
 <a name="stats"></a>
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marneo23&show_icons=true&theme=dark&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marneo23&layout=compact&theme=dark"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marneo23&theme=dark" />
