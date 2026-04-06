@@ -1,29 +1,82 @@
-<div align="center">
+<a name="top"></a>
 
-## Hey, I'm Martin 👋
+<code>martin@GitHub:~$ cat README.md</code>
 
-Backend developer based in Buenos Aires 🇦🇷  
-QA background — which means I break things before they break in prod.
-
-</div>
+[Me](#me) • [About](#about) • [Milestones](#milestones) • [Stack](#stack) • [Projects](#projects) • [Stats](#stats) • [Contact](#contact)
 
 ---
 
-### 🛠️ What I work with
+<h1 align="center">Hey, I'm Martin 👋</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Backend+Developer;From+Buenos+Aires)](https://git.io/typing-svg)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=marneo23&label=Profile%20Views&color=0e75b6&style=flat-square" alt="marneo23" />
+</p>
 
 ---
 
-### 🚀 Projects
+<a name="me"></a>
 
-**[CineMatch](https://github.com/marneo23/cinematch)** — Real-time movie matching app for two people. Swipe on movies, get notified instantly when you both like the same one.  
+## 👤 Me
+
+- 🔎 **Known as:** Martin
+- 🗺️ **Location:** Buenos Aires, Argentina
+- 🗣️ **Languages:** Spanish, English (C1)
+- 💻 **Currently working with:** Node.js / TypeScript
+- 🎓 **Studying:** Data Science & AI — Universidad de la Empresa
+- ⭐ **Background:** Started in QA — which means I break things before they break in prod
+- 🎵 **Fun fact:** Right now I'm probably listening to the greatest [music anthology of all time](https://open.spotify.com/playlist/00i82lDzMDdiHWNjrIGAyw?si=d0b1982c40864fe0)
+
+---
+
+<a name="about"></a>
+
+## 💡 About
+
+- 🔧 I build backend APIs that are clean, secure and explainable
+- 🧠 Currently deepening my Node.js / TypeScript fundamentals
+- 🌐 Interested in **Web3**, **AI/LLMs**, and **distributed systems**
+- 🧪 QA background means I think about edge cases before they become incidents
+
+---
+
+<a name="milestones"></a>
+
+## 🎯 Milestones
+
+- [x] Learn programming fundamentals (CS50x — Python, C, SQL, algorithms)
+- [x] Build real test suites under production pressure (JS + Cucumber)
+- [x] Ship a Web3 project (NEXUS — Arkiv Web3 Database Builders Challenge)
+- [x] Build a real-time app with WebSockets (CineMatch)
+- [ ] Build something with AI / LLMs
+
+---
+
+<a name="stack"></a>
+
+## 🧰 Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <br />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+<a name="projects"></a>
+
+## 🚀 Projects
+
+**[CineMatch](https://github.com/marneo23/cinematch)** — Real-time movie matching app. Swipe on films, get instantly notified when someone else likes the same one.  
 `Node.js` `Express` `Socket.io` `PostgreSQL` `Prisma` `JWT` `React` `TMDB API`
 
 **[Taskboard](https://github.com/marneo23/taskboard)** — REST API with JWT authentication and role-based access control. Built from scratch.  
@@ -34,14 +87,32 @@ QA background — which means I break things before they break in prod.
 
 ---
 
-### 📖 Currently learning
+<a name="stats"></a>
 
-- Deepening Node.js/TypeScript knowledge
-- Studying Data Science & AI
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marneo23&theme=dark" />
+</p>
 
 ---
 
-### ⚡ Also
+<a name="contact"></a>
 
-Right now I'm probably listening to the greatest [music anthology of all time](https://open.spotify.com/playlist/00i82lDzMDdiHWNjrIGAyw?si=d0b1982c40864fe0).
+## 🔗 Contact
 
+<p align="center">
+  <a href="mailto:martin.al.rodriguez24@gmail.com"><img src="https://img.shields.io/badge/Email-martin.al.rodriguez24@gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0e75b6&section=footer" />
+</p>
+
+<p align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back%20to%20Top-2d2d2d?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
