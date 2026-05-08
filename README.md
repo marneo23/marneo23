@@ -61,12 +61,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <br />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <br />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -81,7 +79,7 @@
 **[CineMatch](https://github.com/marneo23/cinematch)** — Real-time movie matching app. Swipe on films, get instantly notified when someone else likes the same one.  
 `Node.js` `Express` `Socket.io` `PostgreSQL` `Prisma` `JWT` `React` `TMDB API`
 
-**[Taskboard](https://github.com/marneo23/taskboard)** — REST API with JWT authentication and role-based access control. Built from scratch.  
+**[AI Pipeline](https://github.com/marneo23/ai-product-pipeline)** — Idea-to-spec design system with configurable agent teams.  
 `Node.js` `Express` `TypeScript` `PostgreSQL` `Prisma` `JWT`
 
 **[NEXUS](https://nexus-seven-gilt.vercel.app/)** — Web3 job board built for the Arkiv Web3 Database Builders Challenge. On-chain data with MetaMask wallet integration.  
