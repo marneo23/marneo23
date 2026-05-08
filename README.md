@@ -38,8 +38,7 @@
 
 - 🔧 I build backend APIs that are clean, secure and explainable
 - 🧠 Currently deepening my knowledge Node.js / TypeScript
-- 🌐 Interested in **Web3**, **AI/LLMs**, and **distributed systems**
-- 🧪 QA background means I think about edge cases before they become incidents
+- 🌐 Interested in **AI/ML**, **WEB3**, and **distributed systems**
 
 ---
 
