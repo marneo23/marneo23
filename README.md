@@ -80,9 +80,9 @@
 `Node.js` `Express` `Socket.io` `PostgreSQL` `Prisma` `JWT` `React` `TMDB API`
 
 **[AI Pipeline](https://github.com/marneo23/ai-product-pipeline)** — Idea-to-spec design system with configurable agent teams.  
-`Node.js` `Express` `TypeScript` `PostgreSQL` `Prisma` `JWT`
+`Next.js` `React` `PostgreSQL` `Prisma` `Redis`
 
-**[NEXUS](https://nexus-seven-gilt.vercel.app/)** — Web3 job board built for the Arkiv Web3 Database Builders Challenge. On-chain data with MetaMask wallet integration.  
+**[NEXUS](https://nexus-jobboard.vercel.app/)** — Web3 job board built for the Arkiv Web3 Database Builders Challenge. On-chain data with MetaMask wallet integration.  
 `Web3` `MetaMask` `Vercel`
 
 ---
