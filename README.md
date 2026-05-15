@@ -9,7 +9,7 @@
 <h1 align="center">Hey, I'm Martin 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&width=435&lines=Backend+Developer%3BFrom+Buenos+Aires" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&width=435&lines=Developer%3BFrom+Buenos+Aires" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -36,8 +36,6 @@
 
 ## 💡 About
 
-- 🔧 I build backend APIs that are clean, secure and explainable
-- 🧠 Currently deepening my knowledge Node.js / TypeScript
 - 🌐 Interested in **AI/ML**, **WEB3**, and **distributed systems**
 
 ---
@@ -46,8 +44,6 @@
 
 ## 🎯 Milestones
 
-- [x] Learn programming fundamentals (CS50x — Python, C, SQL, algorithms)
-- [x] Build real test suites under production pressure (JS + Cucumber)
 - [x] Ship a Web3 project (NEXUS — Arkiv Web3 Database Builders Challenge)
 - [x] Build a real-time app with WebSockets (CineMatch)
 - [ ] Build something with Langchain
