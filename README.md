@@ -2,7 +2,7 @@
 
 <code>martin@GitHub:~$ cat README.md</code>
 
-[Me](#me) • [About](#about) • [Milestones](#milestones) • [Stack](#stack) • [Projects](#projects) • [Stats](#stats) • [Contact](#contact)
+[Me](#me) • [Stack](#stack) • [Projects](#projects) • [Contact](#contact)
 
 ---
 
@@ -10,10 +10,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&width=435&lines=Developer%3BFrom+Buenos+Aires" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=marneo23&label=Profile%20Views&color=0e75b6&style=flat-square" alt="marneo23" />
 </p>
 
 ---
@@ -24,31 +20,9 @@
 
 - 🔎 **Known as:** Martin
 - 🗺️ **Location:** Buenos Aires, Argentina
-- 🗣️ **Languages:** Spanish, English (C1)
-- 💻 **Currently working with:** Node.js / TypeScript
-- 🎓 **Studying:** Data Science & AI — Universidad de la Empresa
-- ⭐ **Background:** Started as QA Automation — which means I break things before they break in prod
-- 🎵 **Fun fact:** Right now I'm probably listening to the greatest [music anthology of all time](https://open.spotify.com/playlist/00i82lDzMDdiHWNjrIGAyw?si=d0b1982c40864fe0)
-
----
-
-<a name="about"></a>
-
-## 💡 About
-
-- 🌐 Interested in **AI/ML**, **WEB3**, and **distributed systems**
-
----
-
-<a name="milestones"></a>
-
-## 🎯 Milestones
-
-- [x] Ship a Web3 project (NEXUS — Arkiv Web3 Database Builders Challenge)
-- [x] Build a real-time app with WebSockets (CineMatch)
-- [ ] Build something with Langchain
-
----
+- 🎓 **Studying:** Data Science & AI
+- 🌐 Interested in **AI/ML** and **WEB3**
+- 🎵 Right now I'm probably listening to the greatest [music anthology of all time](https://open.spotify.com/playlist/00i82lDzMDdiHWNjrIGAyw?si=d0b1982c40864fe0)
 
 <a name="stack"></a>
 
@@ -66,7 +40,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
----
 
 <a name="projects"></a>
 
@@ -81,18 +54,6 @@
 **[NEXUS](https://nexus-jobboard.vercel.app/)** — Web3 job board built for the Arkiv Web3 Database Builders Challenge. On-chain data with MetaMask wallet integration.  
 `Web3` `MetaMask` `Vercel`
 
----
-
-<a name="stats"></a>
-
-## 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marneo23&theme=dark" />
-</p>
-
----
 
 <a name="contact"></a>
 
@@ -103,10 +64,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0e75b6&section=footer" />
-</p>
 
 <p align="center">
   <a href="#top">
